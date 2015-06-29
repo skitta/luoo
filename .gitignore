@@ -43,5 +43,6 @@ Temporary Items
 .apdisk
 
 # Python project file
-.pyc
+*.pyc
 __pycache__
+*.sqlite3
